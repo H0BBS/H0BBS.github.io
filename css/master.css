@@ -54,9 +54,9 @@ footer
 }
 
 a {
-  color: pink;
+  color:black;
   text-decoration: underline;
-  text-decoration-color: #49DE9A;
+  text-decoration-color:black;
   font-size: 40px;
   font-family:fantasy;
 }
