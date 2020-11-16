@@ -13,9 +13,10 @@ body
 
 header
 {
-  height: 500px;
+  height: 150px;
   width:100%;
   background-color:#FFB0D0;
+  font-size: 100px;
 }
 
 nav
