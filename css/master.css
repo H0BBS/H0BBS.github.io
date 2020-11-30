@@ -29,22 +29,8 @@ nav
 main
 {
   height: 450px;
-  width:75%;
-  background-color:#FFB0D0;
-}
-
-aside
-{
-  height:450px;
-  width:25%;
-  background-color:#49DE9A;
-}
-
-footer
-{
-  height:100px;
   width:100%;
-  background-color:#8E7DFF;
+  background-color:#FFB0D0;
 }
 
 #container
